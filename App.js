@@ -11,7 +11,6 @@ export default function App() {
       }}
     >
       <Text>Universal React with Expo</Text>
-      <HomeScreen />
     </View>
   )
 }
